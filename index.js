@@ -1,0 +1,1 @@
+var x=document.getElementsByClassName(".btn")[0].style.color="red";
